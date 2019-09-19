@@ -34,7 +34,7 @@ module.exports = async (req, res) => {
     res.status(200).json(restaurants )
 }
 // // var db;
-//
+// //
 // const origin = process.env.NODE_ENV !== 'production' ? 'http://localhost:3000' : 'https://newapp.gganev.now.sh/'
 
 // // MongoClient.connect('mongodb+srv://georg:Asdfghjk1.@restaurantfinderhtwberlin-fgci3.mongodb.net/test?retryWrites=true&w=majority', (err, client) => {
